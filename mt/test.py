@@ -14,8 +14,8 @@ from mt.ds import build_dataset
 
 logging.basicConfig(level=logging.INFO)
 
-wandb_project_name = "thesis"
-wandb_entity = "hugo-pitorro"
+wandb_project_name = ""
+wandb_entity = ""
 
 
 def get_trainer(
