@@ -3,11 +3,6 @@
 PyTorch implementation of the experiments described in our paper "How Effective are State Space Models for Machine Translation?" [1]. This repository contains code to replicate the results reported in the paper, focusing on the comparison between State Space Models (SSMs) and traditional Transformer architectures for machine translation tasks.
 
 
-## Finetuning Experiments
-
-For experiments involving finetuning of pretrained models, please refer to our separate repository: [SSM-MT-Finetuning](https://github.com/yourusername/ssm-mt-finetuning)
-
-
 ## Requirements
 
 To set up the environment for our experiments, follow these steps:
